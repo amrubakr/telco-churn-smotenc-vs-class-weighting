@@ -52,3 +52,6 @@ Python, pandas, scikit-learn, imbalanced-learn, XGBoost, LightGBM, CatBoost, mat
 
 ## Author
 Amr Ahmed Bakr
+
+## Kaggle Notebook
+https://www.kaggle.com/code/amrbakr95/telco-churn-smotenc-vs-class-weighting-with-grids
